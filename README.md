@@ -111,7 +111,7 @@ Suggested experiments with real players from your college: adaptive on vs off (s
 
 ![AI paths](docs/screens/ai-paths-overlay.png)
 
-## Architecture and design principles
+## Architecture and design principle
 
 ```
 src/
